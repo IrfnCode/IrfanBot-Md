@@ -1,7 +1,4 @@
 /**
-	@ No Re Upload, recode sendiri base nya klo mau 😏
-	@ Sc no enc silahkan cek https://github.com/DikaArdnt/alpha-Morou
- 
 	 「 TqTo 」
 	@ My God
 	@ My Parents
