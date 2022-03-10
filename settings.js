@@ -12,10 +12,10 @@ global.APIKeys = {
 }
 
 // setting 
-global.autoread = false // auto read pesan / message
+global.autoread = true // auto read pesan / message
 global.autorecording = true //status auto merekam ( auto record )
 global.autoketik = false //status auto mengetik (auto typing)
-global.available = false //status online (online)
+global.available = true //status online (online)
 
 // Other
 global.botname = "IRFAN-BOT" //namabot kalian
@@ -25,12 +25,12 @@ global.youtube = "https://wa.me/6282286425538/" //bebas asal jan hapus
 global.github = "https://IrfnCode.github.io/" //bebas
 global.email = "fanadigan1@gmail.com" //bebas
 global.region = "Indonesia" //bebas
-global.ownernomer = "6282286425538" // nomor wa kalian
-global.ownernomerr = "+6282286425538" //nmr wa kalian
+global.ownernomer = "6282286425538","6288271022677" // nomor wa kalian
+global.ownernomerr = "+6282286425538","+6288271022677" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
-global.owner = ["6282286425538"] //ganti agar fitur owner bisa di gunakan
+global.owner = ["6282286425538","6288271022677"] //ganti agar fitur owner bisa di gunakan
 global.packname = '© IRFAN-BOT' //sticker wm ubah
 global.author = 'Di Buat Oleh Irfnadi_' //sticker wm ganti nama kalian
 global.sessionName = 'session'
@@ -42,7 +42,7 @@ global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
-    sukses: '🤗Done, Oke Desu~',
+    sukses: '🤗Done, Oke Cok~',
     admin: 'Perintah Ini Hanya Bisa Digunakan Oleh Admin !',
     botAdmin: 'Perintah Ini Hanya Bisa Digunakan Ketika Bot Menjadi Admin !',
     owner: 'Perintah Ini Hanya Bisa Digunakan Oleh Owner !',
